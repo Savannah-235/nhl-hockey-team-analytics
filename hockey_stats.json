@@ -1,0 +1,2400 @@
+{
+    "Boston Bruins": [
+        {
+            "year": 1990,
+            "wins": 44
+        },
+        {
+            "year": 1991,
+            "wins": 36
+        },
+        {
+            "year": 1992,
+            "wins": 51
+        },
+        {
+            "year": 1993,
+            "wins": 42
+        },
+        {
+            "year": 1994,
+            "wins": 27
+        },
+        {
+            "year": 1995,
+            "wins": 40
+        },
+        {
+            "year": 1996,
+            "wins": 26
+        },
+        {
+            "year": 1997,
+            "wins": 39
+        },
+        {
+            "year": 1998,
+            "wins": 39
+        },
+        {
+            "year": 1999,
+            "wins": 24
+        },
+        {
+            "year": 2000,
+            "wins": 36
+        },
+        {
+            "year": 2001,
+            "wins": 43
+        },
+        {
+            "year": 2002,
+            "wins": 36
+        },
+        {
+            "year": 2003,
+            "wins": 41
+        },
+        {
+            "year": 2005,
+            "wins": 29
+        },
+        {
+            "year": 2006,
+            "wins": 35
+        },
+        {
+            "year": 2007,
+            "wins": 41
+        },
+        {
+            "year": 2008,
+            "wins": 53
+        },
+        {
+            "year": 2009,
+            "wins": 39
+        },
+        {
+            "year": 2010,
+            "wins": 46
+        },
+        {
+            "year": 2011,
+            "wins": 49
+        }
+    ],
+    "Buffalo Sabres": [
+        {
+            "year": 1990,
+            "wins": 31
+        },
+        {
+            "year": 1991,
+            "wins": 31
+        },
+        {
+            "year": 1992,
+            "wins": 38
+        },
+        {
+            "year": 1993,
+            "wins": 43
+        },
+        {
+            "year": 1994,
+            "wins": 22
+        },
+        {
+            "year": 1995,
+            "wins": 33
+        },
+        {
+            "year": 1996,
+            "wins": 40
+        },
+        {
+            "year": 1997,
+            "wins": 36
+        },
+        {
+            "year": 1998,
+            "wins": 37
+        },
+        {
+            "year": 1999,
+            "wins": 35
+        },
+        {
+            "year": 2000,
+            "wins": 46
+        },
+        {
+            "year": 2001,
+            "wins": 35
+        },
+        {
+            "year": 2002,
+            "wins": 27
+        },
+        {
+            "year": 2003,
+            "wins": 37
+        },
+        {
+            "year": 2005,
+            "wins": 52
+        },
+        {
+            "year": 2006,
+            "wins": 53
+        },
+        {
+            "year": 2007,
+            "wins": 39
+        },
+        {
+            "year": 2008,
+            "wins": 41
+        },
+        {
+            "year": 2009,
+            "wins": 45
+        },
+        {
+            "year": 2010,
+            "wins": 43
+        },
+        {
+            "year": 2011,
+            "wins": 39
+        }
+    ],
+    "Calgary Flames": [
+        {
+            "year": 1990,
+            "wins": 46
+        },
+        {
+            "year": 1991,
+            "wins": 31
+        },
+        {
+            "year": 1992,
+            "wins": 43
+        },
+        {
+            "year": 1993,
+            "wins": 42
+        },
+        {
+            "year": 1994,
+            "wins": 24
+        },
+        {
+            "year": 1995,
+            "wins": 34
+        },
+        {
+            "year": 1996,
+            "wins": 32
+        },
+        {
+            "year": 1997,
+            "wins": 26
+        },
+        {
+            "year": 1998,
+            "wins": 30
+        },
+        {
+            "year": 1999,
+            "wins": 31
+        },
+        {
+            "year": 2000,
+            "wins": 27
+        },
+        {
+            "year": 2001,
+            "wins": 32
+        },
+        {
+            "year": 2002,
+            "wins": 29
+        },
+        {
+            "year": 2003,
+            "wins": 42
+        },
+        {
+            "year": 2005,
+            "wins": 46
+        },
+        {
+            "year": 2006,
+            "wins": 43
+        },
+        {
+            "year": 2007,
+            "wins": 42
+        },
+        {
+            "year": 2008,
+            "wins": 46
+        },
+        {
+            "year": 2009,
+            "wins": 40
+        },
+        {
+            "year": 2010,
+            "wins": 41
+        },
+        {
+            "year": 2011,
+            "wins": 37
+        }
+    ],
+    "Chicago Blackhawks": [
+        {
+            "year": 1990,
+            "wins": 49
+        },
+        {
+            "year": 1991,
+            "wins": 36
+        },
+        {
+            "year": 1992,
+            "wins": 47
+        },
+        {
+            "year": 1993,
+            "wins": 39
+        },
+        {
+            "year": 1994,
+            "wins": 24
+        },
+        {
+            "year": 1995,
+            "wins": 40
+        },
+        {
+            "year": 1996,
+            "wins": 34
+        },
+        {
+            "year": 1997,
+            "wins": 30
+        },
+        {
+            "year": 1998,
+            "wins": 29
+        },
+        {
+            "year": 1999,
+            "wins": 33
+        },
+        {
+            "year": 2000,
+            "wins": 29
+        },
+        {
+            "year": 2001,
+            "wins": 41
+        },
+        {
+            "year": 2002,
+            "wins": 30
+        },
+        {
+            "year": 2003,
+            "wins": 20
+        },
+        {
+            "year": 2005,
+            "wins": 26
+        },
+        {
+            "year": 2006,
+            "wins": 31
+        },
+        {
+            "year": 2007,
+            "wins": 40
+        },
+        {
+            "year": 2008,
+            "wins": 46
+        },
+        {
+            "year": 2009,
+            "wins": 52
+        },
+        {
+            "year": 2010,
+            "wins": 44
+        },
+        {
+            "year": 2011,
+            "wins": 45
+        }
+    ],
+    "Detroit Red Wings": [
+        {
+            "year": 1990,
+            "wins": 34
+        },
+        {
+            "year": 1991,
+            "wins": 43
+        },
+        {
+            "year": 1992,
+            "wins": 47
+        },
+        {
+            "year": 1993,
+            "wins": 46
+        },
+        {
+            "year": 1994,
+            "wins": 33
+        },
+        {
+            "year": 1995,
+            "wins": 62
+        },
+        {
+            "year": 1996,
+            "wins": 38
+        },
+        {
+            "year": 1997,
+            "wins": 44
+        },
+        {
+            "year": 1998,
+            "wins": 43
+        },
+        {
+            "year": 1999,
+            "wins": 48
+        },
+        {
+            "year": 2000,
+            "wins": 49
+        },
+        {
+            "year": 2001,
+            "wins": 51
+        },
+        {
+            "year": 2002,
+            "wins": 48
+        },
+        {
+            "year": 2003,
+            "wins": 48
+        },
+        {
+            "year": 2005,
+            "wins": 58
+        },
+        {
+            "year": 2006,
+            "wins": 50
+        },
+        {
+            "year": 2007,
+            "wins": 54
+        },
+        {
+            "year": 2008,
+            "wins": 51
+        },
+        {
+            "year": 2009,
+            "wins": 44
+        },
+        {
+            "year": 2010,
+            "wins": 47
+        },
+        {
+            "year": 2011,
+            "wins": 48
+        }
+    ],
+    "Edmonton Oilers": [
+        {
+            "year": 1990,
+            "wins": 37
+        },
+        {
+            "year": 1991,
+            "wins": 36
+        },
+        {
+            "year": 1992,
+            "wins": 26
+        },
+        {
+            "year": 1993,
+            "wins": 25
+        },
+        {
+            "year": 1994,
+            "wins": 17
+        },
+        {
+            "year": 1995,
+            "wins": 30
+        },
+        {
+            "year": 1996,
+            "wins": 36
+        },
+        {
+            "year": 1997,
+            "wins": 35
+        },
+        {
+            "year": 1998,
+            "wins": 33
+        },
+        {
+            "year": 1999,
+            "wins": 32
+        },
+        {
+            "year": 2000,
+            "wins": 39
+        },
+        {
+            "year": 2001,
+            "wins": 38
+        },
+        {
+            "year": 2002,
+            "wins": 36
+        },
+        {
+            "year": 2003,
+            "wins": 36
+        },
+        {
+            "year": 2005,
+            "wins": 41
+        },
+        {
+            "year": 2006,
+            "wins": 32
+        },
+        {
+            "year": 2007,
+            "wins": 41
+        },
+        {
+            "year": 2008,
+            "wins": 38
+        },
+        {
+            "year": 2009,
+            "wins": 27
+        },
+        {
+            "year": 2010,
+            "wins": 25
+        },
+        {
+            "year": 2011,
+            "wins": 32
+        }
+    ],
+    "Hartford Whalers": [
+        {
+            "year": 1990,
+            "wins": 31
+        },
+        {
+            "year": 1991,
+            "wins": 26
+        },
+        {
+            "year": 1992,
+            "wins": 26
+        },
+        {
+            "year": 1993,
+            "wins": 27
+        },
+        {
+            "year": 1994,
+            "wins": 19
+        },
+        {
+            "year": 1995,
+            "wins": 34
+        },
+        {
+            "year": 1996,
+            "wins": 32
+        }
+    ],
+    "Los Angeles Kings": [
+        {
+            "year": 1990,
+            "wins": 46
+        },
+        {
+            "year": 1991,
+            "wins": 35
+        },
+        {
+            "year": 1992,
+            "wins": 39
+        },
+        {
+            "year": 1993,
+            "wins": 27
+        },
+        {
+            "year": 1994,
+            "wins": 16
+        },
+        {
+            "year": 1995,
+            "wins": 24
+        },
+        {
+            "year": 1996,
+            "wins": 28
+        },
+        {
+            "year": 1997,
+            "wins": 38
+        },
+        {
+            "year": 1998,
+            "wins": 32
+        },
+        {
+            "year": 1999,
+            "wins": 39
+        },
+        {
+            "year": 2000,
+            "wins": 38
+        },
+        {
+            "year": 2001,
+            "wins": 40
+        },
+        {
+            "year": 2002,
+            "wins": 33
+        },
+        {
+            "year": 2003,
+            "wins": 28
+        },
+        {
+            "year": 2005,
+            "wins": 42
+        },
+        {
+            "year": 2006,
+            "wins": 27
+        },
+        {
+            "year": 2007,
+            "wins": 32
+        },
+        {
+            "year": 2008,
+            "wins": 34
+        },
+        {
+            "year": 2009,
+            "wins": 46
+        },
+        {
+            "year": 2010,
+            "wins": 46
+        },
+        {
+            "year": 2011,
+            "wins": 40
+        }
+    ],
+    "Minnesota North Stars": [
+        {
+            "year": 1990,
+            "wins": 27
+        },
+        {
+            "year": 1991,
+            "wins": 32
+        },
+        {
+            "year": 1992,
+            "wins": 36
+        }
+    ],
+    "Montreal Canadiens": [
+        {
+            "year": 1990,
+            "wins": 39
+        },
+        {
+            "year": 1991,
+            "wins": 41
+        },
+        {
+            "year": 1992,
+            "wins": 48
+        },
+        {
+            "year": 1993,
+            "wins": 41
+        },
+        {
+            "year": 1994,
+            "wins": 18
+        },
+        {
+            "year": 1995,
+            "wins": 40
+        },
+        {
+            "year": 1996,
+            "wins": 31
+        },
+        {
+            "year": 1997,
+            "wins": 37
+        },
+        {
+            "year": 1998,
+            "wins": 32
+        },
+        {
+            "year": 1999,
+            "wins": 35
+        },
+        {
+            "year": 2000,
+            "wins": 28
+        },
+        {
+            "year": 2001,
+            "wins": 36
+        },
+        {
+            "year": 2002,
+            "wins": 30
+        },
+        {
+            "year": 2003,
+            "wins": 41
+        },
+        {
+            "year": 2005,
+            "wins": 42
+        },
+        {
+            "year": 2006,
+            "wins": 42
+        },
+        {
+            "year": 2007,
+            "wins": 47
+        },
+        {
+            "year": 2008,
+            "wins": 41
+        },
+        {
+            "year": 2009,
+            "wins": 39
+        },
+        {
+            "year": 2010,
+            "wins": 44
+        },
+        {
+            "year": 2011,
+            "wins": 31
+        }
+    ],
+    "New Jersey Devils": [
+        {
+            "year": 1990,
+            "wins": 32
+        },
+        {
+            "year": 1991,
+            "wins": 38
+        },
+        {
+            "year": 1992,
+            "wins": 40
+        },
+        {
+            "year": 1993,
+            "wins": 47
+        },
+        {
+            "year": 1994,
+            "wins": 22
+        },
+        {
+            "year": 1995,
+            "wins": 37
+        },
+        {
+            "year": 1996,
+            "wins": 45
+        },
+        {
+            "year": 1997,
+            "wins": 48
+        },
+        {
+            "year": 1998,
+            "wins": 47
+        },
+        {
+            "year": 1999,
+            "wins": 45
+        },
+        {
+            "year": 2000,
+            "wins": 48
+        },
+        {
+            "year": 2001,
+            "wins": 41
+        },
+        {
+            "year": 2002,
+            "wins": 46
+        },
+        {
+            "year": 2003,
+            "wins": 43
+        },
+        {
+            "year": 2005,
+            "wins": 46
+        },
+        {
+            "year": 2006,
+            "wins": 49
+        },
+        {
+            "year": 2007,
+            "wins": 46
+        },
+        {
+            "year": 2008,
+            "wins": 51
+        },
+        {
+            "year": 2009,
+            "wins": 48
+        },
+        {
+            "year": 2010,
+            "wins": 38
+        },
+        {
+            "year": 2011,
+            "wins": 48
+        }
+    ],
+    "New York Islanders": [
+        {
+            "year": 1990,
+            "wins": 25
+        },
+        {
+            "year": 1991,
+            "wins": 34
+        },
+        {
+            "year": 1992,
+            "wins": 40
+        },
+        {
+            "year": 1993,
+            "wins": 36
+        },
+        {
+            "year": 1994,
+            "wins": 15
+        },
+        {
+            "year": 1995,
+            "wins": 22
+        },
+        {
+            "year": 1996,
+            "wins": 29
+        },
+        {
+            "year": 1997,
+            "wins": 30
+        },
+        {
+            "year": 1998,
+            "wins": 24
+        },
+        {
+            "year": 1999,
+            "wins": 24
+        },
+        {
+            "year": 2000,
+            "wins": 21
+        },
+        {
+            "year": 2001,
+            "wins": 42
+        },
+        {
+            "year": 2002,
+            "wins": 35
+        },
+        {
+            "year": 2003,
+            "wins": 38
+        },
+        {
+            "year": 2005,
+            "wins": 36
+        },
+        {
+            "year": 2006,
+            "wins": 40
+        },
+        {
+            "year": 2007,
+            "wins": 35
+        },
+        {
+            "year": 2008,
+            "wins": 26
+        },
+        {
+            "year": 2009,
+            "wins": 34
+        },
+        {
+            "year": 2010,
+            "wins": 30
+        },
+        {
+            "year": 2011,
+            "wins": 34
+        }
+    ],
+    "New York Rangers": [
+        {
+            "year": 1990,
+            "wins": 36
+        },
+        {
+            "year": 1991,
+            "wins": 50
+        },
+        {
+            "year": 1992,
+            "wins": 34
+        },
+        {
+            "year": 1993,
+            "wins": 52
+        },
+        {
+            "year": 1994,
+            "wins": 22
+        },
+        {
+            "year": 1995,
+            "wins": 41
+        },
+        {
+            "year": 1996,
+            "wins": 38
+        },
+        {
+            "year": 1997,
+            "wins": 25
+        },
+        {
+            "year": 1998,
+            "wins": 33
+        },
+        {
+            "year": 1999,
+            "wins": 29
+        },
+        {
+            "year": 2000,
+            "wins": 33
+        },
+        {
+            "year": 2001,
+            "wins": 36
+        },
+        {
+            "year": 2002,
+            "wins": 32
+        },
+        {
+            "year": 2003,
+            "wins": 27
+        },
+        {
+            "year": 2005,
+            "wins": 44
+        },
+        {
+            "year": 2006,
+            "wins": 42
+        },
+        {
+            "year": 2007,
+            "wins": 42
+        },
+        {
+            "year": 2008,
+            "wins": 43
+        },
+        {
+            "year": 2009,
+            "wins": 38
+        },
+        {
+            "year": 2010,
+            "wins": 44
+        },
+        {
+            "year": 2011,
+            "wins": 51
+        }
+    ],
+    "Philadelphia Flyers": [
+        {
+            "year": 1990,
+            "wins": 33
+        },
+        {
+            "year": 1991,
+            "wins": 32
+        },
+        {
+            "year": 1992,
+            "wins": 36
+        },
+        {
+            "year": 1993,
+            "wins": 35
+        },
+        {
+            "year": 1994,
+            "wins": 28
+        },
+        {
+            "year": 1995,
+            "wins": 45
+        },
+        {
+            "year": 1996,
+            "wins": 45
+        },
+        {
+            "year": 1997,
+            "wins": 42
+        },
+        {
+            "year": 1998,
+            "wins": 37
+        },
+        {
+            "year": 1999,
+            "wins": 45
+        },
+        {
+            "year": 2000,
+            "wins": 43
+        },
+        {
+            "year": 2001,
+            "wins": 42
+        },
+        {
+            "year": 2002,
+            "wins": 45
+        },
+        {
+            "year": 2003,
+            "wins": 40
+        },
+        {
+            "year": 2005,
+            "wins": 45
+        },
+        {
+            "year": 2006,
+            "wins": 22
+        },
+        {
+            "year": 2007,
+            "wins": 42
+        },
+        {
+            "year": 2008,
+            "wins": 44
+        },
+        {
+            "year": 2009,
+            "wins": 41
+        },
+        {
+            "year": 2010,
+            "wins": 47
+        },
+        {
+            "year": 2011,
+            "wins": 47
+        }
+    ],
+    "Pittsburgh Penguins": [
+        {
+            "year": 1990,
+            "wins": 41
+        },
+        {
+            "year": 1991,
+            "wins": 39
+        },
+        {
+            "year": 1992,
+            "wins": 56
+        },
+        {
+            "year": 1993,
+            "wins": 44
+        },
+        {
+            "year": 1994,
+            "wins": 29
+        },
+        {
+            "year": 1995,
+            "wins": 49
+        },
+        {
+            "year": 1996,
+            "wins": 38
+        },
+        {
+            "year": 1997,
+            "wins": 40
+        },
+        {
+            "year": 1998,
+            "wins": 38
+        },
+        {
+            "year": 1999,
+            "wins": 37
+        },
+        {
+            "year": 2000,
+            "wins": 42
+        },
+        {
+            "year": 2001,
+            "wins": 28
+        },
+        {
+            "year": 2002,
+            "wins": 27
+        },
+        {
+            "year": 2003,
+            "wins": 23
+        },
+        {
+            "year": 2005,
+            "wins": 22
+        },
+        {
+            "year": 2006,
+            "wins": 47
+        },
+        {
+            "year": 2007,
+            "wins": 47
+        },
+        {
+            "year": 2008,
+            "wins": 45
+        },
+        {
+            "year": 2009,
+            "wins": 47
+        },
+        {
+            "year": 2010,
+            "wins": 49
+        },
+        {
+            "year": 2011,
+            "wins": 51
+        }
+    ],
+    "Quebec Nordiques": [
+        {
+            "year": 1990,
+            "wins": 16
+        },
+        {
+            "year": 1991,
+            "wins": 20
+        },
+        {
+            "year": 1992,
+            "wins": 47
+        },
+        {
+            "year": 1993,
+            "wins": 34
+        },
+        {
+            "year": 1994,
+            "wins": 30
+        }
+    ],
+    "St. Louis Blues": [
+        {
+            "year": 1990,
+            "wins": 47
+        },
+        {
+            "year": 1991,
+            "wins": 36
+        },
+        {
+            "year": 1992,
+            "wins": 37
+        },
+        {
+            "year": 1993,
+            "wins": 40
+        },
+        {
+            "year": 1994,
+            "wins": 28
+        },
+        {
+            "year": 1995,
+            "wins": 32
+        },
+        {
+            "year": 1996,
+            "wins": 36
+        },
+        {
+            "year": 1997,
+            "wins": 45
+        },
+        {
+            "year": 1998,
+            "wins": 37
+        },
+        {
+            "year": 1999,
+            "wins": 51
+        },
+        {
+            "year": 2000,
+            "wins": 43
+        },
+        {
+            "year": 2001,
+            "wins": 43
+        },
+        {
+            "year": 2002,
+            "wins": 41
+        },
+        {
+            "year": 2003,
+            "wins": 39
+        },
+        {
+            "year": 2005,
+            "wins": 21
+        },
+        {
+            "year": 2006,
+            "wins": 34
+        },
+        {
+            "year": 2007,
+            "wins": 33
+        },
+        {
+            "year": 2008,
+            "wins": 41
+        },
+        {
+            "year": 2009,
+            "wins": 40
+        },
+        {
+            "year": 2010,
+            "wins": 38
+        },
+        {
+            "year": 2011,
+            "wins": 49
+        }
+    ],
+    "Toronto Maple Leafs": [
+        {
+            "year": 1990,
+            "wins": 23
+        },
+        {
+            "year": 1991,
+            "wins": 30
+        },
+        {
+            "year": 1992,
+            "wins": 44
+        },
+        {
+            "year": 1993,
+            "wins": 43
+        },
+        {
+            "year": 1994,
+            "wins": 21
+        },
+        {
+            "year": 1995,
+            "wins": 34
+        },
+        {
+            "year": 1996,
+            "wins": 30
+        },
+        {
+            "year": 1997,
+            "wins": 30
+        },
+        {
+            "year": 1998,
+            "wins": 45
+        },
+        {
+            "year": 1999,
+            "wins": 45
+        },
+        {
+            "year": 2000,
+            "wins": 37
+        },
+        {
+            "year": 2001,
+            "wins": 43
+        },
+        {
+            "year": 2002,
+            "wins": 44
+        },
+        {
+            "year": 2003,
+            "wins": 45
+        },
+        {
+            "year": 2005,
+            "wins": 41
+        },
+        {
+            "year": 2006,
+            "wins": 40
+        },
+        {
+            "year": 2007,
+            "wins": 36
+        },
+        {
+            "year": 2008,
+            "wins": 34
+        },
+        {
+            "year": 2009,
+            "wins": 30
+        },
+        {
+            "year": 2010,
+            "wins": 37
+        },
+        {
+            "year": 2011,
+            "wins": 35
+        }
+    ],
+    "Vancouver Canucks": [
+        {
+            "year": 1990,
+            "wins": 28
+        },
+        {
+            "year": 1991,
+            "wins": 42
+        },
+        {
+            "year": 1992,
+            "wins": 46
+        },
+        {
+            "year": 1993,
+            "wins": 41
+        },
+        {
+            "year": 1994,
+            "wins": 18
+        },
+        {
+            "year": 1995,
+            "wins": 32
+        },
+        {
+            "year": 1996,
+            "wins": 35
+        },
+        {
+            "year": 1997,
+            "wins": 25
+        },
+        {
+            "year": 1998,
+            "wins": 23
+        },
+        {
+            "year": 1999,
+            "wins": 30
+        },
+        {
+            "year": 2000,
+            "wins": 36
+        },
+        {
+            "year": 2001,
+            "wins": 42
+        },
+        {
+            "year": 2002,
+            "wins": 45
+        },
+        {
+            "year": 2003,
+            "wins": 43
+        },
+        {
+            "year": 2005,
+            "wins": 42
+        },
+        {
+            "year": 2006,
+            "wins": 49
+        },
+        {
+            "year": 2007,
+            "wins": 39
+        },
+        {
+            "year": 2008,
+            "wins": 45
+        },
+        {
+            "year": 2009,
+            "wins": 49
+        },
+        {
+            "year": 2010,
+            "wins": 54
+        },
+        {
+            "year": 2011,
+            "wins": 51
+        }
+    ],
+    "Washington Capitals": [
+        {
+            "year": 1990,
+            "wins": 37
+        },
+        {
+            "year": 1991,
+            "wins": 45
+        },
+        {
+            "year": 1992,
+            "wins": 43
+        },
+        {
+            "year": 1993,
+            "wins": 39
+        },
+        {
+            "year": 1994,
+            "wins": 22
+        },
+        {
+            "year": 1995,
+            "wins": 39
+        },
+        {
+            "year": 1996,
+            "wins": 33
+        },
+        {
+            "year": 1997,
+            "wins": 40
+        },
+        {
+            "year": 1998,
+            "wins": 31
+        },
+        {
+            "year": 1999,
+            "wins": 44
+        },
+        {
+            "year": 2000,
+            "wins": 41
+        },
+        {
+            "year": 2001,
+            "wins": 36
+        },
+        {
+            "year": 2002,
+            "wins": 39
+        },
+        {
+            "year": 2003,
+            "wins": 23
+        },
+        {
+            "year": 2005,
+            "wins": 29
+        },
+        {
+            "year": 2006,
+            "wins": 28
+        },
+        {
+            "year": 2007,
+            "wins": 43
+        },
+        {
+            "year": 2008,
+            "wins": 50
+        },
+        {
+            "year": 2009,
+            "wins": 54
+        },
+        {
+            "year": 2010,
+            "wins": 48
+        },
+        {
+            "year": 2011,
+            "wins": 42
+        }
+    ],
+    "Winnipeg Jets": [
+        {
+            "year": 1990,
+            "wins": 26
+        },
+        {
+            "year": 1991,
+            "wins": 33
+        },
+        {
+            "year": 1992,
+            "wins": 40
+        },
+        {
+            "year": 1993,
+            "wins": 24
+        },
+        {
+            "year": 1994,
+            "wins": 16
+        },
+        {
+            "year": 1995,
+            "wins": 36
+        },
+        {
+            "year": 2011,
+            "wins": 37
+        }
+    ],
+    "San Jose Sharks": [
+        {
+            "year": 1991,
+            "wins": 17
+        },
+        {
+            "year": 1992,
+            "wins": 11
+        },
+        {
+            "year": 1993,
+            "wins": 33
+        },
+        {
+            "year": 1994,
+            "wins": 19
+        },
+        {
+            "year": 1995,
+            "wins": 20
+        },
+        {
+            "year": 1996,
+            "wins": 27
+        },
+        {
+            "year": 1997,
+            "wins": 34
+        },
+        {
+            "year": 1998,
+            "wins": 31
+        },
+        {
+            "year": 1999,
+            "wins": 35
+        },
+        {
+            "year": 2000,
+            "wins": 40
+        },
+        {
+            "year": 2001,
+            "wins": 44
+        },
+        {
+            "year": 2002,
+            "wins": 28
+        },
+        {
+            "year": 2003,
+            "wins": 43
+        },
+        {
+            "year": 2005,
+            "wins": 44
+        },
+        {
+            "year": 2006,
+            "wins": 51
+        },
+        {
+            "year": 2007,
+            "wins": 49
+        },
+        {
+            "year": 2008,
+            "wins": 53
+        },
+        {
+            "year": 2009,
+            "wins": 51
+        },
+        {
+            "year": 2010,
+            "wins": 48
+        },
+        {
+            "year": 2011,
+            "wins": 43
+        }
+    ],
+    "Ottawa Senators": [
+        {
+            "year": 1992,
+            "wins": 10
+        },
+        {
+            "year": 1993,
+            "wins": 14
+        },
+        {
+            "year": 1994,
+            "wins": 9
+        },
+        {
+            "year": 1995,
+            "wins": 18
+        },
+        {
+            "year": 1996,
+            "wins": 31
+        },
+        {
+            "year": 1997,
+            "wins": 34
+        },
+        {
+            "year": 1998,
+            "wins": 44
+        },
+        {
+            "year": 1999,
+            "wins": 41
+        },
+        {
+            "year": 2000,
+            "wins": 48
+        },
+        {
+            "year": 2001,
+            "wins": 39
+        },
+        {
+            "year": 2002,
+            "wins": 52
+        },
+        {
+            "year": 2003,
+            "wins": 43
+        },
+        {
+            "year": 2005,
+            "wins": 52
+        },
+        {
+            "year": 2006,
+            "wins": 48
+        },
+        {
+            "year": 2007,
+            "wins": 43
+        },
+        {
+            "year": 2008,
+            "wins": 36
+        },
+        {
+            "year": 2009,
+            "wins": 44
+        },
+        {
+            "year": 2010,
+            "wins": 32
+        },
+        {
+            "year": 2011,
+            "wins": 41
+        }
+    ],
+    "Tampa Bay Lightning": [
+        {
+            "year": 1992,
+            "wins": 23
+        },
+        {
+            "year": 1993,
+            "wins": 30
+        },
+        {
+            "year": 1994,
+            "wins": 17
+        },
+        {
+            "year": 1995,
+            "wins": 38
+        },
+        {
+            "year": 1996,
+            "wins": 32
+        },
+        {
+            "year": 1997,
+            "wins": 17
+        },
+        {
+            "year": 1998,
+            "wins": 19
+        },
+        {
+            "year": 1999,
+            "wins": 19
+        },
+        {
+            "year": 2000,
+            "wins": 24
+        },
+        {
+            "year": 2001,
+            "wins": 27
+        },
+        {
+            "year": 2002,
+            "wins": 36
+        },
+        {
+            "year": 2003,
+            "wins": 46
+        },
+        {
+            "year": 2005,
+            "wins": 43
+        },
+        {
+            "year": 2006,
+            "wins": 44
+        },
+        {
+            "year": 2007,
+            "wins": 31
+        },
+        {
+            "year": 2008,
+            "wins": 24
+        },
+        {
+            "year": 2009,
+            "wins": 34
+        },
+        {
+            "year": 2010,
+            "wins": 46
+        },
+        {
+            "year": 2011,
+            "wins": 38
+        }
+    ],
+    "Mighty Ducks of Anaheim": [
+        {
+            "year": 1993,
+            "wins": 33
+        },
+        {
+            "year": 1994,
+            "wins": 16
+        },
+        {
+            "year": 1995,
+            "wins": 35
+        },
+        {
+            "year": 1996,
+            "wins": 36
+        },
+        {
+            "year": 1997,
+            "wins": 26
+        },
+        {
+            "year": 1998,
+            "wins": 35
+        },
+        {
+            "year": 1999,
+            "wins": 34
+        },
+        {
+            "year": 2000,
+            "wins": 25
+        },
+        {
+            "year": 2001,
+            "wins": 29
+        },
+        {
+            "year": 2002,
+            "wins": 40
+        },
+        {
+            "year": 2003,
+            "wins": 29
+        },
+        {
+            "year": 2005,
+            "wins": 43
+        }
+    ],
+    "Dallas Stars": [
+        {
+            "year": 1993,
+            "wins": 42
+        },
+        {
+            "year": 1994,
+            "wins": 17
+        },
+        {
+            "year": 1995,
+            "wins": 26
+        },
+        {
+            "year": 1996,
+            "wins": 48
+        },
+        {
+            "year": 1997,
+            "wins": 49
+        },
+        {
+            "year": 1998,
+            "wins": 51
+        },
+        {
+            "year": 1999,
+            "wins": 43
+        },
+        {
+            "year": 2000,
+            "wins": 48
+        },
+        {
+            "year": 2001,
+            "wins": 36
+        },
+        {
+            "year": 2002,
+            "wins": 46
+        },
+        {
+            "year": 2003,
+            "wins": 41
+        },
+        {
+            "year": 2005,
+            "wins": 53
+        },
+        {
+            "year": 2006,
+            "wins": 50
+        },
+        {
+            "year": 2007,
+            "wins": 45
+        },
+        {
+            "year": 2008,
+            "wins": 36
+        },
+        {
+            "year": 2009,
+            "wins": 37
+        },
+        {
+            "year": 2010,
+            "wins": 42
+        },
+        {
+            "year": 2011,
+            "wins": 42
+        }
+    ],
+    "Florida Panthers": [
+        {
+            "year": 1993,
+            "wins": 33
+        },
+        {
+            "year": 1994,
+            "wins": 20
+        },
+        {
+            "year": 1995,
+            "wins": 41
+        },
+        {
+            "year": 1996,
+            "wins": 35
+        },
+        {
+            "year": 1997,
+            "wins": 24
+        },
+        {
+            "year": 1998,
+            "wins": 30
+        },
+        {
+            "year": 1999,
+            "wins": 43
+        },
+        {
+            "year": 2000,
+            "wins": 22
+        },
+        {
+            "year": 2001,
+            "wins": 22
+        },
+        {
+            "year": 2002,
+            "wins": 24
+        },
+        {
+            "year": 2003,
+            "wins": 28
+        },
+        {
+            "year": 2005,
+            "wins": 37
+        },
+        {
+            "year": 2006,
+            "wins": 35
+        },
+        {
+            "year": 2007,
+            "wins": 38
+        },
+        {
+            "year": 2008,
+            "wins": 41
+        },
+        {
+            "year": 2009,
+            "wins": 32
+        },
+        {
+            "year": 2010,
+            "wins": 30
+        },
+        {
+            "year": 2011,
+            "wins": 38
+        }
+    ],
+    "Colorado Avalanche": [
+        {
+            "year": 1995,
+            "wins": 47
+        },
+        {
+            "year": 1996,
+            "wins": 49
+        },
+        {
+            "year": 1997,
+            "wins": 39
+        },
+        {
+            "year": 1998,
+            "wins": 44
+        },
+        {
+            "year": 1999,
+            "wins": 42
+        },
+        {
+            "year": 2000,
+            "wins": 52
+        },
+        {
+            "year": 2001,
+            "wins": 45
+        },
+        {
+            "year": 2002,
+            "wins": 42
+        },
+        {
+            "year": 2003,
+            "wins": 40
+        },
+        {
+            "year": 2005,
+            "wins": 43
+        },
+        {
+            "year": 2006,
+            "wins": 44
+        },
+        {
+            "year": 2007,
+            "wins": 44
+        },
+        {
+            "year": 2008,
+            "wins": 32
+        },
+        {
+            "year": 2009,
+            "wins": 43
+        },
+        {
+            "year": 2010,
+            "wins": 30
+        },
+        {
+            "year": 2011,
+            "wins": 41
+        }
+    ],
+    "Phoenix Coyotes": [
+        {
+            "year": 1996,
+            "wins": 38
+        },
+        {
+            "year": 1997,
+            "wins": 35
+        },
+        {
+            "year": 1998,
+            "wins": 39
+        },
+        {
+            "year": 1999,
+            "wins": 39
+        },
+        {
+            "year": 2000,
+            "wins": 35
+        },
+        {
+            "year": 2001,
+            "wins": 40
+        },
+        {
+            "year": 2002,
+            "wins": 31
+        },
+        {
+            "year": 2003,
+            "wins": 22
+        },
+        {
+            "year": 2005,
+            "wins": 38
+        },
+        {
+            "year": 2006,
+            "wins": 31
+        },
+        {
+            "year": 2007,
+            "wins": 38
+        },
+        {
+            "year": 2008,
+            "wins": 36
+        },
+        {
+            "year": 2009,
+            "wins": 50
+        },
+        {
+            "year": 2010,
+            "wins": 43
+        },
+        {
+            "year": 2011,
+            "wins": 42
+        }
+    ],
+    "Carolina Hurricanes": [
+        {
+            "year": 1997,
+            "wins": 33
+        },
+        {
+            "year": 1998,
+            "wins": 34
+        },
+        {
+            "year": 1999,
+            "wins": 37
+        },
+        {
+            "year": 2000,
+            "wins": 38
+        },
+        {
+            "year": 2001,
+            "wins": 35
+        },
+        {
+            "year": 2002,
+            "wins": 22
+        },
+        {
+            "year": 2003,
+            "wins": 28
+        },
+        {
+            "year": 2005,
+            "wins": 52
+        },
+        {
+            "year": 2006,
+            "wins": 40
+        },
+        {
+            "year": 2007,
+            "wins": 43
+        },
+        {
+            "year": 2008,
+            "wins": 45
+        },
+        {
+            "year": 2009,
+            "wins": 35
+        },
+        {
+            "year": 2010,
+            "wins": 40
+        },
+        {
+            "year": 2011,
+            "wins": 33
+        }
+    ],
+    "Nashville Predators": [
+        {
+            "year": 1998,
+            "wins": 28
+        },
+        {
+            "year": 1999,
+            "wins": 28
+        },
+        {
+            "year": 2000,
+            "wins": 34
+        },
+        {
+            "year": 2001,
+            "wins": 28
+        },
+        {
+            "year": 2002,
+            "wins": 27
+        },
+        {
+            "year": 2003,
+            "wins": 38
+        },
+        {
+            "year": 2005,
+            "wins": 49
+        },
+        {
+            "year": 2006,
+            "wins": 51
+        },
+        {
+            "year": 2007,
+            "wins": 41
+        },
+        {
+            "year": 2008,
+            "wins": 40
+        },
+        {
+            "year": 2009,
+            "wins": 47
+        },
+        {
+            "year": 2010,
+            "wins": 44
+        },
+        {
+            "year": 2011,
+            "wins": 48
+        }
+    ],
+    "Atlanta Thrashers": [
+        {
+            "year": 1999,
+            "wins": 14
+        },
+        {
+            "year": 2000,
+            "wins": 23
+        },
+        {
+            "year": 2001,
+            "wins": 19
+        },
+        {
+            "year": 2002,
+            "wins": 31
+        },
+        {
+            "year": 2003,
+            "wins": 33
+        },
+        {
+            "year": 2005,
+            "wins": 41
+        },
+        {
+            "year": 2006,
+            "wins": 43
+        },
+        {
+            "year": 2007,
+            "wins": 34
+        },
+        {
+            "year": 2008,
+            "wins": 35
+        },
+        {
+            "year": 2009,
+            "wins": 35
+        },
+        {
+            "year": 2010,
+            "wins": 34
+        }
+    ],
+    "Columbus Blue Jackets": [
+        {
+            "year": 2000,
+            "wins": 28
+        },
+        {
+            "year": 2001,
+            "wins": 22
+        },
+        {
+            "year": 2002,
+            "wins": 29
+        },
+        {
+            "year": 2003,
+            "wins": 25
+        },
+        {
+            "year": 2005,
+            "wins": 35
+        },
+        {
+            "year": 2006,
+            "wins": 33
+        },
+        {
+            "year": 2007,
+            "wins": 34
+        },
+        {
+            "year": 2008,
+            "wins": 41
+        },
+        {
+            "year": 2009,
+            "wins": 32
+        },
+        {
+            "year": 2010,
+            "wins": 34
+        },
+        {
+            "year": 2011,
+            "wins": 29
+        }
+    ],
+    "Minnesota Wild": [
+        {
+            "year": 2000,
+            "wins": 25
+        },
+        {
+            "year": 2001,
+            "wins": 26
+        },
+        {
+            "year": 2002,
+            "wins": 42
+        },
+        {
+            "year": 2003,
+            "wins": 30
+        },
+        {
+            "year": 2005,
+            "wins": 38
+        },
+        {
+            "year": 2006,
+            "wins": 48
+        },
+        {
+            "year": 2007,
+            "wins": 44
+        },
+        {
+            "year": 2008,
+            "wins": 40
+        },
+        {
+            "year": 2009,
+            "wins": 38
+        },
+        {
+            "year": 2010,
+            "wins": 39
+        },
+        {
+            "year": 2011,
+            "wins": 35
+        }
+    ],
+    "Anaheim Ducks": [
+        {
+            "year": 2006,
+            "wins": 48
+        },
+        {
+            "year": 2007,
+            "wins": 47
+        },
+        {
+            "year": 2008,
+            "wins": 42
+        },
+        {
+            "year": 2009,
+            "wins": 39
+        },
+        {
+            "year": 2010,
+            "wins": 47
+        },
+        {
+            "year": 2011,
+            "wins": 34
+        }
+    ]
+}
